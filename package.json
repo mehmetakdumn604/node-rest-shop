@@ -1,0 +1,29 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": " A Node.js RESTful API Tutorial Project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "  ",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node restful api"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Mehmet Akduman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
