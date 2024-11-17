@@ -6,4 +6,5 @@ This project is a Node.js RESTful API for managing a shop's products and orders.
 Instructions on how to install the project dependencies using npm:
 ```bash
 npm install
+npm start
 
